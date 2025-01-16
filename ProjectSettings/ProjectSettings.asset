@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 2c88ef670a1594f4aac57910ce76931f
+  productGUID: 00000000000000000000000000000000
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -994,7 +994,7 @@ PlayerSettings:
   cloudProjectId: d32d37ea-aa07-4069-8764-628248447859
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project (1) 2025-01-10_08-40-29
+  projectName: 
   organizationId: el_rubio
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
