@@ -42,7 +42,7 @@ Material:
     - _SimpleNoiseScale: 100
     - _VertexOfset: 2
     m_Colors:
-    - _Color: {r: 5.992157, g: 0.7529412, b: 0, a: 1}
+    - _Color: {r: 11.984314, g: 1.5058824, b: 0, a: 1}
     - _NoiseSpeed: {r: 0, g: 0.05, b: 0, a: 0}
     - _NoiseSpeed_1: {r: 0, g: -0.05, b: 0, a: 0}
   m_BuildTextureStacks: []
